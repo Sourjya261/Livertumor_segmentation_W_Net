@@ -1,4 +1,7 @@
 # Liver_tumor_segmentation_W_Net
+# Model architecture
+![Weight Layer - 1 (2)](https://user-images.githubusercontent.com/89221563/229314613-89f2c7c5-1659-42cd-8245-8ee6e9864c1e.png)
+
 # Training-Validation curves for the evaluation metrics
 ![image](https://user-images.githubusercontent.com/89221563/229313676-b1fcad65-c9ba-4a35-8e15-ac121819aa87.png)
 
